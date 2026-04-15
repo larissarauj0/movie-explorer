@@ -1,8 +1,8 @@
 import { Outlet, Link } from "react-router-dom";
 import { getPopularMovies } from "./services/Api";
 import { useState, useEffect } from "react";
-import SearchBar from "./components/searchBar";
-import DarkMode from "./components/darkMode";
+import SearchBar from "./components/SearchBar";
+import DarkMode from "./components/DarkMode";
 import { IoHomeOutline } from "react-icons/io5";
 import { CgProfile } from "react-icons/cg";
 
