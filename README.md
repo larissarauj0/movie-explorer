@@ -81,6 +81,6 @@ src/
 
 ---
 
-## 👩‍💻 Desenvolvido pro
+## 👩‍💻 Desenvolvido por
 
-Feito por [Larissa Araújo](https://github.com/larissarauj0) 🚀
+[Larissa Araújo](https://github.com/larissarauj0) 🚀
