@@ -2,7 +2,7 @@
 
 Aplicação web para explorar filmes populares, buscar títulos, salvar favoritos, avaliar e comentar filmes — tudo com persistência via localStorage.
 
-> 🔗 **Deploy:** [em breve](#) &nbsp;|&nbsp; 📁 **Repositório:** [github.com/larissarauj0/movie-explorer](https://github.com/larissarauj0/movie-explorer)
+> 🔗 **Deploy:** (https://movie-explorer-rouge-ten.vercel.app/) &nbsp;|&nbsp; 📁 **Repositório:** [github.com/larissarauj0/movie-explorer](https://github.com/larissarauj0/movie-explorer)
 
 ---
 
