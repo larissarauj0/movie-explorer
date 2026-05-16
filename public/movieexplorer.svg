@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Movie Explorer icon</title>
+  <desc>Ícone retrô de câmera de cinema com bobinas e detalhes vintage em preto e branco</desc>
+
+  <rect x="140" y="180" width="400" height="300" rx="18" fill="#1a1a1a" stroke="#f0ece0" stroke-width="6"/>
+
+  <rect x="140" y="218" width="400" height="8" fill="#f0ece0" opacity="0.15"/>
+  <rect x="140" y="454" width="400" height="8" fill="#f0ece0" opacity="0.15"/>
+
+  <rect x="108" y="208" width="36" height="52" rx="6" fill="#1a1a1a" stroke="#f0ece0" stroke-width="5"/>
+  <rect x="108" y="220" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="108" y="236" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="108" y="252" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+
+  <rect x="536" y="208" width="36" height="52" rx="6" fill="#1a1a1a" stroke="#f0ece0" stroke-width="5"/>
+  <rect x="536" y="220" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="536" y="236" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="536" y="252" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+
+  <rect x="108" y="390" width="36" height="52" rx="6" fill="#1a1a1a" stroke="#f0ece0" stroke-width="5"/>
+  <rect x="108" y="402" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="108" y="418" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="108" y="434" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+
+  <rect x="536" y="390" width="36" height="52" rx="6" fill="#1a1a1a" stroke="#f0ece0" stroke-width="5"/>
+  <rect x="536" y="402" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="536" y="418" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+  <rect x="536" y="434" width="36" height="8" fill="#f0ece0" opacity="0.3"/>
+
+  <circle cx="260" cy="330" r="105" fill="#0d0d0d" stroke="#f0ece0" stroke-width="5"/>
+  <circle cx="260" cy="330" r="78" fill="none" stroke="#f0ece0" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="260" cy="330" r="52" fill="#1a1a1a" stroke="#f0ece0" stroke-width="4"/>
+  <circle cx="260" cy="330" r="22" fill="#f0ece0"/>
+
+  <line x1="260" y1="278" x2="260" y2="252" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="260" y1="382" x2="260" y2="408" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="208" y1="330" x2="182" y2="330" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="312" y1="330" x2="338" y2="330" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="224" y1="294" x2="206" y2="276" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="296" y1="366" x2="314" y2="384" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="296" y1="294" x2="314" y2="276" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="224" y1="366" x2="206" y2="384" stroke="#f0ece0" stroke-width="3"/>
+
+  <rect x="390" y="265" width="110" height="70" rx="8" fill="#0d0d0d" stroke="#f0ece0" stroke-width="3"/>
+  <line x1="390" y1="287" x2="500" y2="287" stroke="#f0ece0" stroke-width="2" opacity="0.5"/>
+  <line x1="390" y1="309" x2="500" y2="309" stroke="#f0ece0" stroke-width="2" opacity="0.5"/>
+  <line x1="418" y1="265" x2="418" y2="335" stroke="#f0ece0" stroke-width="2" opacity="0.5"/>
+  <line x1="446" y1="265" x2="446" y2="335" stroke="#f0ece0" stroke-width="2" opacity="0.5"/>
+  <line x1="474" y1="265" x2="474" y2="335" stroke="#f0ece0" stroke-width="2" opacity="0.5"/>
+
+  <text x="340" y="420" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0ece0" text-anchor="middle" letter-spacing="5" opacity="0.85">MOVIE</text>
+  <text x="340" y="448" font-family="Georgia, serif" font-size="14" font-weight="400" fill="#f0ece0" text-anchor="middle" letter-spacing="8" opacity="0.6">EXPLORER</text>
+
+  <line x1="175" y1="462" x2="505" y2="462" stroke="#f0ece0" stroke-width="1" opacity="0.25"/>
+</svg>
