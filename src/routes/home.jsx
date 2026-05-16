@@ -1,6 +1,6 @@
 import { useOutletContext, Link } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { getPopularMovies } from "../services/api.jsx";
+import { getPopularMovies } from "../services/Api.jsx";
 import { ClipLoader } from "react-spinners";
 import { FaStar } from "react-icons/fa";
 
